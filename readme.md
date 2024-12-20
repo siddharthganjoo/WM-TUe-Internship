@@ -1,17 +1,4 @@
-import os
 
-# Content for the README file
-content = """
-# Code Processing and Evaluation System
-
-This repository contains scripts designed for processing datasets, fine-tuning models, evaluating performance, and generating outputs for tasks like code summarization, code generation, and performance analysis.
-
-## Table of Contents
-1. [Scripts Overview](#scripts-overview)
-2. [Setup and Dependencies](#setup-and-dependencies)
-3. [How to Use](#how-to-use)
-
----
 
 ## Scripts Overview
 
